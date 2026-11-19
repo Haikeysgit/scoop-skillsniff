@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Security scanner for AI agent skills. Checks a skill for hidden risks before your coding agent installs it.",
     "homepage": "https://github.com/Haikeysgit/skillsniff",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Haikeysgit/skillsniff/releases/download/v0.1.2/skillsniff-cli-x86_64-pc-windows-msvc.zip",
-            "hash": "98a0b803e00ed504282dc9324504d4a0a780587d8729b05d2a90683f33df919a"
+            "url": "https://github.com/Haikeysgit/skillsniff/releases/download/v0.1.3/skillsniff-cli-x86_64-pc-windows-msvc.zip",
+            "hash": "706f0d7cf8d6b1fb71191a87792a5e80be59aa217d7eb98b7ed6443185c781dc"
         }
     },
     "bin": "skillsniff.exe",
